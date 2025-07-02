@@ -20,7 +20,6 @@ This project implements a **hybrid model** combining traditional **ARIMA** (Auto
 | File | Description |
 |------|-------------|
 | `main_model.py` | Core code implementing ARIMA + LSTM hybrid model |
-| `app.py` (optional) | Streamlit dashboard for interactive visualization |
 | `requirements.txt` | List of required Python libraries |
 | `README.md` | This file |
 
